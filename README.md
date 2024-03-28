@@ -28,7 +28,7 @@ To run the application, follow these steps:
 2. Ensure you have Python installed on your system.
 3. Install the required libraries by running:
     ```
-    pip install numpy deap
+    pip install numpy deap customtkinter
     ```
 4. Convert the Python script to an executable file using PyInstaller:
     ```
